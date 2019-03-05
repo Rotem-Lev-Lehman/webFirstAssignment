@@ -7,7 +7,7 @@
 	background-color: blue;
 }
 
-#menuList
+.menuList
 {
 	list-style-type: none;
 	margin: 0;
@@ -15,13 +15,13 @@
 	overflow: hidden;
 }
 
-#menuListItem
+.menuListItem
 {
 	float: left;
 	border-right: 1px solid white;
 }
 
-#menuItem
+.menuItem
 {
 	display: block;
  	padding: 13px 15px;
@@ -30,7 +30,7 @@
 	text-decoration: none;
 }
 
-#menuItem:hover
+.menuItem:hover
 {
 	background-color: darkblue;
 }
